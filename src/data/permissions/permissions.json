@@ -1,0 +1,38 @@
+[
+    {
+        "profile": "Super Admin",
+        "permissions": [
+          { "ressources": "Commandes", "get": true, "put": true, "post": true, "delete": true },
+          { "ressources": "Connaissements", "get": true, "put": true, "post": true, "delete": true },
+          { "ressources": "Compagnies", "get": true, "put": true, "post": true, "delete": true },
+          { "ressources": "Utilisateurs", "get": true, "put": true, "post": true, "delete": true }
+        ]
+      },
+      {
+        "profile": "Admin",
+        "permissions": [
+          { "ressources": "Commandes", "get": true, "put": true, "post": true, "delete": false },
+          { "ressources": "Connaissements", "get": true, "put": true, "post": true, "delete": false },
+          { "ressources": "Compagnies", "get": true, "put": true, "post": false, "delete": false },
+          { "ressources": "Utilisateurs", "get": true, "put": true, "post": true, "delete": true }
+        ]
+      },
+      {
+        "profile": "Chargeur",
+        "permissions": [
+          { "ressources": "Commandes", "get": true, "put": true, "post": true, "delete": true },
+          { "ressources": "Connaissements", "get": true, "put": true, "post": true, "delete": true },
+          { "ressources": "Compagnies", "get": true, "put": false, "post": false, "delete": false },
+          { "ressources": "Utilisateurs", "get": true, "put": true, "post": true, "delete": true }
+        ]
+      },
+      {
+        "profile": "Utilisateur",
+        "permissions": [
+          { "ressources": "Commandes", "get": true, "put": false, "post": false, "delete": false },
+          { "ressources": "Connaissements", "get": true, "put": true, "post": true, "delete": true },
+          { "ressources": "Compagnies", "get": false, "put": false, "post": false, "delete": false },
+          { "ressources": "Utilisateurs", "get": false, "put": false, "post": false, "delete": false }
+        ]
+      }
+  ]

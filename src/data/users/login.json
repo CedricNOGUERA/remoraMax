@@ -1,0 +1,99 @@
+[
+    {
+        "user@mail.com": "UserPass123!",
+        "transporteur@mail.com": "TransporteurPass123!",
+        "admin@mail.com": "AdminPass123!"
+    },
+    {
+        "email": "user@mail.com",
+        "password": "UserPass123!"
+    },
+    {
+        "email": "transporteur@mail.com",
+        "password": "TransporteurPass123!"
+    },
+    {
+        "email": "transport@mail.com",
+        "password": "TransporteurPass123!"
+    },
+    {
+        "email": "admin@mail.com",
+        "password": "AdminPass123!"
+    },
+    {
+        "email": "super_admin@mail.com",
+        "password": "Super_AdminPass123!"
+    },
+    {
+        "email": "mijael.Yackson@lone.com",
+        "password":"Passwordpassword#5!"
+    },
+    {
+        "email": "monique.belouche@mail.com",
+        "password":"Password#05!!"
+    },
+
+    {
+        "email": "foodeez-1@logis.pf",
+        "password": "Tuli!pE$1"
+    },
+    {
+        "email": "wand-1@logis.pf",
+        "password": "MarguErit$3"
+    },
+    {
+        "email": "sdk-1@logis.pf",
+        "password": "PaIn123+"
+    },
+    {
+        "email": "wani-1@logis.pf",
+        "password": "FrAise89!"
+    },
+    {
+        "email": "logis.digital@lwane.com",
+        "password": "Z!aaZqdNiQs!8!XBLi"
+    },
+    {
+        "email": "sdt-1@logis.pf",
+        "password": "PeluChe3&"
+    },
+    {
+        "email": "copa-2@logis.pf",
+        "password": "PuaToro123!"
+    },
+    {
+        "email": "transporter-cedis@mail.com",
+        "password": "TransporteurCedis123!"
+    },
+   
+    {
+        "email": "transporteur-2@logis.pf",
+        "password": "Tr4nsport$"
+    },
+    {
+        "email":"super_admin@mail.com",
+        "password": "Super_AdminPass123!"
+    },
+    
+    {
+        "email": "teva.maro@lwane.com",
+        "password": "35GGuD97!B8z5"
+    },
+    {
+        "email": "cedric.noguera@lwane.com",
+        "password": "TransporteurCedis123!",
+        "company": "BevCo dev"
+    },
+    
+    {
+        "email": "cedric.noguera@lwane.com",
+        "password": "AdminCedis123!",
+         "company": "Cedis prod"
+    },
+    {
+        "email": "ced.nog@lwane.com",
+        "password": "AdminWanImp123!",
+         "company": "wan import dev"
+    }
+ 
+]

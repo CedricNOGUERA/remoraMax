@@ -1,0 +1,56 @@
+//https://www.revatua.gov.pf/api/v1/public/trajets/destinations?idIle=32&page=0&limit=10&sort=dateDepart,asc&dateDebut=2024-08-09&dateFin=2024-08-31
+{
+    "content": [
+        {
+            "idIleDestination": 92,
+            "destination": "TAKAROA takaroa",
+            "ileDestination": "Takaroa",
+            "lieuDestination": "TAKAROA",
+            "dateArrivee": "17/08/2024",
+            "dateDepart": "17/08/2024",
+            "nomNavire": "ST X MARIS STELLA IV",
+            "numeroVoyage": "2024-SXMS4-5",
+            "prochaineDestination": "TAKAPOTO takapoto",
+            "heureArrivee": "07:00:00",
+            "heureDepart": "11:00:00"
+        },
+        {
+            "idIleDestination": 92,
+            "destination": "TAKAROA takaroa",
+            "ileDestination": "Takaroa",
+            "lieuDestination": "TAKAROA",
+            "dateArrivee": "19/08/2024",
+            "dateDepart": "19/08/2024",
+            "nomNavire": "MAREVA NUI",
+            "numeroVoyage": "2024-MRVN-14",
+            "prochaineDestination": "TAKAPOTO takapoto",
+            "heureArrivee": "06:30:00",
+            "heureDepart": "11:30:00"
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": true,
+            "unsorted": false,
+            "empty": false
+        },
+        "pageNumber": 0,
+        "pageSize": 10,
+        "offset": 0,
+        "unpaged": false,
+        "paged": true
+    },
+    "totalElements": 2,
+    "totalPages": 1,
+    "last": true,
+    "first": true,
+    "sort": {
+        "sorted": true,
+        "unsorted": false,
+        "empty": false
+    },
+    "numberOfElements": 2,
+    "size": 10,
+    "number": 0,
+    "empty": false
+}

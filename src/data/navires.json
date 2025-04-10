@@ -1,0 +1,36 @@
+
+[
+    {
+      "id": 0,
+      "nom": "string",
+      "abreviation": "string",
+      "armateur": {
+        "numeroTahiti": "string",
+        "raisonSociale": "string",
+        "sigle": "string"
+      },
+      "voyageExistant": true,
+      "croisiere": true,
+      "navette": {
+        "id": 0,
+        "idNavire": 0,
+        "nomNavire": "string",
+        "ileA": {
+          "id": 5,
+          "nom": "Tahiti",
+          "privee": false,
+          "codeZoneTarifaire": "string",
+          "version": "2024-08-08T19:14:35.369Z",
+          "lieuDebarquements": "Vairao"
+        },
+        "ileB": {
+          "id": 5,
+          "nom": "Tahiti",
+          "privee": false,
+          "codeZoneTarifaire": "string",
+          "version": "2024-08-08T19:14:35.369Z",
+          "lieuDebarquements": "Vairao"
+        }
+      }
+    }
+  ]

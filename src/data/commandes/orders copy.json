@@ -1,0 +1,179 @@
+
+[
+  {
+
+  "expediteur": {
+    "denomination": "Wan Distribution",
+    "telephone": "87752025",
+    "mail": "wan.distribution@lwane.com",
+    "numeroTahiti": "A268468189"
+  },
+  "id_data": 125,
+  "id_company": "",
+  "id_connaissement": 1596,
+  "numeroVoyage": "",
+  "paiement": "EXPEDITEUR",
+  "ileDepart": "Tahiti",
+  "ileArrivee": "Huahine",
+  "lieuArrivee": "",
+  "dateEtl": "",
+  "dateCreation": "04/08/2024",
+  "dateModif": "04/08/2024",
+  "statusRevatua": "BROUILLON",
+  "referenceHorsRevatua": "1234567892",
+
+  "destinataire": {
+    "denomination": "Super Marche Huahine",
+    "telephone": "87731520",
+    "mail": "super.huahine@gmail.com",
+    "numeroTahiti": "DKMLJNI566+6"
+  },
+      
+      "detailCodeSH": "<string>",
+      "detailCodeTarif": "<string>",
+      "detailDescription": "110G Coquilles St-Jacques à la Bretonne TIPIAK x 12",
+      "detailNbColis": 3,
+      "detailPoids": 4,
+      "detailStockage": "CONGELE",
+      "detailUnitePoids": "KILO",
+      "detailReferenceExterne": "75306287"
+},
+  {
+
+  "expediteur": {
+    "denomination": "Wan Distribution",
+    "telephone": "87752025",
+    "mail": "wan.distribution@lwane.com",
+    "numeroTahiti": "A268468189"
+  },
+
+  "paiement": "EXPEDITEUR",
+  "ileDepart": "Tahiti",
+  "ileArrivee": "Huahine",
+  "lieuArrivee": "",
+  "dateEtl": "",
+  "dateCreation": "04/08/2024",
+  "dateModif": "04/08/2024",
+  "statusRevatua": "BROUILLON",
+  "referenceHorsRevatua": "9234567150",
+
+  "destinataire": {
+    "denomination": "Super Marche Huahine",
+    "telephone": "87731520",
+    "mail": "super.huahine@gmail.com",
+    "numeroTahiti": "DKMLJNI566+6"
+  },
+      "detailCodeSH": "<string>",
+      "detailCodeTarif": "<string>",
+      "detailDescription": "100G CAMEMBERT CARACTERE x 12",
+      "detailNbColis": 3,
+      "detailPoids": 1,
+      "detailStockage": "REFRIGERE",
+      "detailUnitePoids": "KILO",
+      "detailReferenceExterne": "75001516"
+},
+  {
+
+  "expediteur": {
+    "denomination": "Wan Distribution",
+    "telephone": "87752025",
+    "mail": "wan.distribution@lwane.com",
+    "numeroTahiti": "A268468189"
+  },
+
+  "paiement": "EXPEDITEUR",
+  "ileDepart": "Tahiti",
+  "ileArrivee": "Huahine",
+  "lieuArrivee": "",
+  "dateEtl": "",
+  "dateCreation": "04/08/2024",
+  "dateModif": "04/08/2024",
+  "statusRevatua": "BROUILLON",
+  "referenceHorsRevatua": "9234567150",
+
+  "destinataire": {
+    "denomination": "Super Marche Huahine",
+    "telephone": "87731520",
+    "mail": "super.huahine@gmail.com",
+    "numeroTahiti": "DKMLJNI566+6"
+  },
+      
+      "detailCodeSH": "<string>",
+      "detailCodeTarif": "<string>",
+      "detailDescription": "120G EMMENTAL RAPE CRF x 48",
+      "detailNbColis": 3,
+      "detailPoids": 5,
+      "detailStockage": "REFRIGERE",
+      "detailUnitePoids": "KILO",
+      "detailReferenceExterne": "75001220"
+ 
+},
+  {
+  "expediteur": {
+    "denomination": "Wan Distribution",
+    "telephone": "87752025",
+    "mail": "wan.distribution@lwane.com",
+    "numeroTahiti": "A268468189"
+  },
+  "paiement": "EXPEDITEUR",
+  "ileDepart": "Tahiti",
+  "ileArrivee": "Raiatea",
+  "lieuArrivee": "",
+  "dateEtl": "",
+  "dateCreation": "04/08/2024",
+  "dateModif": "04/08/2024",
+  "statusRevatua": "BROUILLON",
+  "referenceHorsRevatua": "9234567155",
+
+  "destinataire": {
+    "denomination": "Champion Raiatea",
+    "telephone": "87739520",
+    "mail": "champion.raiatea@lwane.com",
+    "numeroTahiti": "DKMLJNI566+6"
+  },
+      
+      "detailCodeSH": "<string>",
+      "detailCodeTarif": "<string>",
+      "detailDescription": "120G EMMENTAL RAPE CRF x 48",
+      "detailNbColis": 3,
+      "detailPoids": 5,
+      "detailStockage": "REFRIGERE",
+      "detailUnitePoids": "KILO",
+      "detailReferenceExterne": "75001220"
+},
+  {
+  "expediteur": {
+    "denomination": "Wan Distribution",
+    "telephone": "87752025",
+    "mail": "wan.distribution@lwane.com",
+    "numeroTahiti": "A268468189"
+  },
+  "paiement": "EXPEDITEUR",
+  "ileDepart": "Tahiti",
+  "ileArrivee": "Raiatea",
+  "lieuArrivee": "",
+  "dateEtl": "",
+  "dateCreation": "04/08/2024",
+  "dateModif": "04/08/2024",
+  "statusRevatua": "BROUILLON",
+  "referenceHorsRevatua": "9234567155",
+
+  "destinataire": {
+    "denomination": "Champion Raiatea",
+    "telephone": "87739520",
+    "mail": "champion.raiatea@lwane.com",
+    "numeroTahiti": "DKMLJNI566+6"
+  },
+      
+      "detailCodeSH": "<string>",
+      "detailCodeTarif": "<string>",
+      "detailDescription": "1L CREME FRAICHE PRDT x 6",
+      "detailNbColis": 5,
+      "detailPoids": 30,
+      "detailStockage": "REFRIGERE",
+      "detailUnitePoids": "KILO",
+      "detailReferenceExterne": "75101220"
+}
+
+
+]

@@ -1,0 +1,990 @@
+[
+  {
+  "id": 458,
+  "numero": "2020-BLSX-12/1",
+  "voyage": {
+    "numero": "2020-BLSX-12",
+    "numeroArmateur": "2020-14",
+    "nomNavire": "Blue Lagoon Ship",
+    "croisiere": false,
+    "dateDepart": "2020-12-10",
+    "heureDepart": {
+      "hour": 13,
+      "minute": 56,
+      "second": 0,
+      "nano": 0
+    },
+    "ileDepart": "Tahiti",
+    "lieuDepart": "null",
+    "dateRetour": "2020-12-20",
+    "heureRetour": {
+      "hour": 0,
+      "minute": 0,
+      "second": 0,
+      "nano": 0
+    },
+    "version": "2024-08-15T01:36:34.954Z",
+    "periple": [
+      {
+        "id": 84,
+        "ileDepart": {
+          "id": 5,
+          "nom": "Tahiti",
+          "privee": false,
+          "codeZoneTarifaire": "string",
+          "version": "2024-08-15T01:36:34.954Z",
+          "lieuDebarquements": "Vairao"
+        },
+        "lieuDepart": {
+          "id": 0,
+          "nom": "Tiputa"
+        },
+        "dateDepart": "2020-03-10",
+        "heureDepart": {
+          "hour": 13,
+          "minute": 50,
+          "second": 0,
+          "nano": 0
+        },
+        "ileArrivee": {
+          "id": 5,
+          "nom": "Tahiti",
+          "privee": false,
+          "codeZoneTarifaire": "string",
+          "version": "2024-08-15T01:36:34.954Z",
+          "lieuDebarquements": "Vairao"
+        },
+        "lieuArrivee": {
+          "id": 0,
+          "nom": "Tiputa"
+        },
+        "dateArrivee": "2020-03-12",
+        "heureArrivee": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "version": "2024-08-15T01:36:34.954Z",
+        "numeroVoyage": "2020-BLS-10",
+        "nomNavire": "Blue Start IV",
+        "manifestes": [
+          {
+            "version": "2024-08-15T01:36:34.954Z",
+            "id": 0,
+            "dateEdition": "2024-08-15T01:36:34.954Z",
+            "type": "SORTIE",
+            "nomFichier": "string",
+            "pdfConnaissements": [
+              "string"
+            ],
+            "signe": true
+          }
+        ],
+        "genererManifeste": true,
+        "dateDerniereModificationConnaissement": "2024-08-15T01:36:34.954Z"
+      }
+    ],
+    "dateEditionAvisDepart": "2024-08-15",
+    "annule": true,
+    "messagesConflit": [
+      "string"
+    ],
+    "anomalies": [
+      "string"
+    ],
+    "utilise": false,
+    "manifestesInterIles": [
+      {
+        "version": "2024-08-15T01:36:34.954Z",
+        "id": 0,
+        "dateEdition": "2024-08-15T01:36:34.954Z",
+        "type": "SORTIE",
+        "nomFichier": "string",
+        "pdfConnaissements": [
+          "string"
+        ],
+        "signe": true
+      }
+    ],
+    "nomFichierListeEquipage": "string",
+    "nomFichierMouvementsNavire": "string"
+  },
+  "paiement": "EXPEDITEUR",
+  "ileDepart": {
+    "id": 0,
+    "nom": "string",
+    "privee": true,
+    "archipel": {
+      "id": 0,
+      "nom": "Tuamotu",
+      "nbJoursMaxSansTouche": 15
+    }
+  },
+  "armateur": {
+    "version": "2024-08-15T01:36:34.954Z",
+    "numeroTahiti": "A896165",
+    "raisonSociale": "string",
+    "sigle": "string",
+    "telephone": "40414243",
+    "mail": "string",
+    "boitePostale": "43674",
+    "commune": {
+      "id": 5,
+      "nom": "Papeete",
+      "codePostal": "98713"
+    },
+    "kbis": [
+      "string"
+    ],
+    "nomFichierKbis": "string",
+    "pieceIdentiteResponsableLegal": [
+      "string"
+    ],
+    "nomFichierPieceIdentiteResponsableLegal": "string",
+    "procuration": [
+      "string"
+    ],
+    "nomFichierProcuration": "string",
+    "pieceIdentiteProcuration": [
+      "string"
+    ],
+    "nomFichierPieceIdentiteProcuration": "string",
+    "dateArretActivite": "2021-10-04",
+    "dateValidationInscription": "2024-08-15T01:36:34.954Z",
+    "listeEmailsAvisDepart": "string",
+    "listeNumerosTahitiFavoris": "string",
+    "compteBancaire": "string",
+    "codeTiers": "string"
+  },
+  "expediteur": {
+    "denomination": "Moana",
+    "telephone": "40414243",
+    "mail": "moana@mail.pf",
+    "numeroTahiti": "A12345"
+  },
+  "lieuDepart": {
+    "version": "2024-08-15T01:36:34.954Z",
+    "id": 3,
+    "nom": "Tiputa"
+  },
+  "detailConnaissements": [
+    {
+      "id": 0,
+      "version": "2024-08-15T01:36:34.954Z",
+      "nbColis": 5,
+      "contenant": {
+        "id": 0,
+        "libelle": "string"
+      },
+      "capacite": {
+        "version": "2024-08-15T01:36:34.954Z",
+        "id": 0,
+        "quantite": 0,
+        "unite": "LITRE"
+      },
+      "description": "150G COULIS DE FRAMBOISE",
+      "codeSH": {
+        "id": 0,
+        "nomenclature": "string",
+        "libelle": "string",
+        "uniteMesureDouane": {
+          "id": 0,
+          "code": "string",
+          "libelle": "string"
+        },
+        "categorieMatiereDangereuse": {
+          "version": "2024-08-15T01:36:34.954Z",
+          "id": 0,
+          "variation": {
+            "version": "2024-08-15T01:36:34.954Z",
+            "id": 0,
+            "dateDebut": "2024-08-15",
+            "dateFin": "2024-08-15"
+          },
+          "libelle": "string",
+          "codesSHParent": [
+            "string"
+          ]
+        },
+        "designations": [
+          {
+            "nomenclature": "07144000",
+            "idNomenclature": 10,
+            "libelle": "Taro frais, entiers, non épluchés, produits localement",
+            "codeAvantage": "PPN",
+            "categorieMatiereDangereuse": "coprah",
+            "nombreUtilisations": 0,
+            "codeTarifCode": "PPN"
+          }
+        ]
+      },
+      "codeTarif": {
+        "id": 0,
+        "code": "string",
+        "libelle": "string",
+        "refrigere": true,
+        "remboursementDgae": true
+      },
+      "stockage": "PONTEE",
+      "poids": 0,
+      "unitePoids": "KILO",
+      "volume": 0,
+      "uniteVolume": "LITRE",
+      "montantDeclare": 0,
+      "montantOfficiel": 0,
+      "numeroOrdre": 0,
+      "tarifUnitaire": 0,
+      "montantLibre": 0,
+      "matiereDangereuse": true,
+      "fragile": true,
+      "codeAvantage": {
+        "code": "string",
+        "libelle": "string"
+      },
+      "prestationsComplementaires": [
+        {
+          "version": "2024-08-15T01:36:34.954Z",
+          "id": 0,
+          "libelle": "string",
+          "actif": true
+        }
+      ],
+      "numeroConnaissement": "string"
+    }
+  ],
+  "ileArrivee": {
+    "id": 0,
+    "nom": "string",
+    "privee": true,
+    "archipel": {
+      "id": 0,
+      "nom": "Tuamotu",
+      "nbJoursMaxSansTouche": 15
+    }
+  },
+  "lieuArrivee": {
+    "version": "2024-08-15T01:36:34.954Z",
+    "id": 3,
+    "nom": "Tiputa"
+  },
+  "destinataire": {
+    "denomination": "Moana",
+    "telephone": "40414243",
+    "mail": "moana@mail.pf",
+    "numeroTahiti": "A12345"
+  },
+  "version": "2024-08-15T01:36:34.954Z",
+  "dernierEtat": {
+    "id": 0,
+    "dateEvenement": "2024-08-15T01:36:34.954Z",
+    "evenementConnaissement": "REFUS_DEMANDE",
+    "utilisateur": {
+      "identifiant": "string",
+      "nom": "string",
+      "prenom": "string",
+      "mail": "string"
+    },
+    "nomFichier": "string",
+    "motif": "string",
+    "commentaire": "string"
+  },
+  "dernierEtatOfficialise": {
+    "id": 0,
+    "dateEvenement": "2024-08-15T01:36:34.954Z",
+    "evenementConnaissement": "REFUS_DEMANDE",
+    "utilisateur": {
+      "identifiant": "string",
+      "nom": "string",
+      "prenom": "string",
+      "mail": "string"
+    },
+    "nomFichier": "string",
+    "motif": "string",
+    "commentaire": "string"
+  },
+  "montantTotal": 0,
+  "numeroBac": "17",
+  "prestationsComplementaires": [
+    {
+      "version": "2024-08-15T01:36:34.954Z",
+      "id": 0,
+      "libelle": "string",
+      "actif": true
+    }
+  ],
+  "matiereDangereuse": false,
+  "fragile": false,
+  "profil": "DPAM",
+  "referenceHorsRevatua": "RT-207",
+  "nombreColisAEmbarquer": 8,
+  "volumeAEmbarquer": 2
+}, 
+{
+  "totalElements": 0,
+  "totalPages": 0,
+  "first": true,
+  "sort": {
+    "sorted": true,
+    "unsorted": true,
+    "empty": true
+  },
+  "size": 0,
+  "content": [
+    {
+      "id": 458,
+      "numero": "2020-BLSX-12/1",
+      "voyage": {
+        "numero": "2020-BLSX-12",
+        "numeroArmateur": "2020-14",
+        "nomNavire": "Blue Lagoon Ship",
+        "croisiere": false,
+        "dateDepart": "2020-12-10",
+        "heureDepart": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "ileDepart": "Tahiti",
+        "lieuDepart": "null",
+        "dateRetour": "2020-12-20",
+        "heureRetour": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "version": "2024-08-20T17:57:22.602Z",
+        "periple": [
+          {
+            "id": 84,
+            "ileDepart": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T17:57:22.602Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuDepart": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateDepart": "2020-03-10",
+            "heureDepart": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "ileArrivee": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T17:57:22.602Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuArrivee": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateArrivee": "2020-03-12",
+            "heureArrivee": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "version": "2024-08-20T17:57:22.602Z",
+            "numeroVoyage": "2020-BLS-10",
+            "nomNavire": "Blue Start IV",
+            "manifestes": [
+              {
+                "version": "2024-08-20T17:57:22.602Z",
+                "id": 0,
+                "dateEdition": "2024-08-20T17:57:22.602Z",
+                "type": "SORTIE",
+                "nomFichier": "string",
+                "pdfConnaissements": [
+                  "string"
+                ],
+                "signe": true
+              }
+            ],
+            "genererManifeste": true,
+            "dateDerniereModificationConnaissement": "2024-08-20T17:57:22.602Z"
+          }
+        ],
+        "dateEditionAvisDepart": "2024-08-20",
+        "annule": true,
+        "messagesConflit": [
+          "string"
+        ],
+        "anomalies": [
+          "string"
+        ],
+        "utilise": false,
+        "manifestesInterIles": [
+          {
+            "version": "2024-08-20T17:57:22.602Z",
+            "id": 0,
+            "dateEdition": "2024-08-20T17:57:22.602Z",
+            "type": "SORTIE",
+            "nomFichier": "string",
+            "pdfConnaissements": [
+              "string"
+            ],
+            "signe": true
+          }
+        ],
+        "nomFichierListeEquipage": "string",
+        "nomFichierMouvementsNavire": "string"
+      },
+      "paiement": "EXPEDITEUR",
+      "ileDepart": {
+        "id": 0,
+        "nom": "string",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "armateur": {
+        "version": "2024-08-20T17:57:22.602Z",
+        "numeroTahiti": "string",
+        "raisonSociale": "string",
+        "sigle": "string",
+        "telephone": "40405040",
+        "mail": "string",
+        "boitePostale": "503845",
+        "commune": {
+          "id": 0,
+          "nom": "string",
+          "codePostal": "string"
+        },
+        "kbis": [
+          "string"
+        ],
+        "nomFichierKbis": "string",
+        "pieceIdentiteResponsableLegal": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteResponsableLegal": "string",
+        "procuration": [
+          "string"
+        ],
+        "nomFichierProcuration": "string",
+        "pieceIdentiteProcuration": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteProcuration": "string",
+        "dateArretActivite": "2021-10-04",
+        "dateValidationInscription": "2024-08-20T17:57:22.602Z",
+        "listeEmailsAvisDepart": "string",
+        "listeNumerosTahitiFavoris": "string",
+        "compteBancaire": "string",
+        "codeTiers": "string"
+      },
+      "expediteur": {
+        "denomination": "Moana",
+        "telephone": "40414243",
+        "mail": "moana@mail.pf",
+        "numeroTahiti": "A12345"
+      },
+      "lieuDepart": {
+        "version": "2024-08-20T17:57:22.602Z",
+        "id": 3,
+        "nom": "Tiputa"
+      },
+      "detailConnaissements": [
+        {
+          "id": 0,
+          "version": "2024-08-20T17:57:22.602Z",
+          "nbColis": 0,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T17:57:22.602Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "LITRE"
+          },
+          "description": "string",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T17:57:22.602Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T17:57:22.602Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "REFRIGERE",
+          "poids": 0,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 0,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T17:57:22.602Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        }
+      ],
+      "ileArrivee": {
+        "id": 0,
+        "nom": "string",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "lieuArrivee": {
+        "version": "2024-08-20T17:57:22.602Z",
+        "id": 3,
+        "nom": "Tiputa"
+      },
+      "destinataire": {
+        "denomination": "Moana",
+        "telephone": "40414243",
+        "mail": "moana@mail.pf",
+        "numeroTahiti": "A12345"
+      },
+      "version": "2024-08-20T17:57:22.602Z",
+      "dernierEtat": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T17:57:22.602Z",
+        "evenementConnaissement": "SAISIE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "dernierEtatOfficialise": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T17:57:22.602Z",
+        "evenementConnaissement": "SAISIE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "montantTotal": 0,
+      "numeroBac": "17",
+      "prestationsComplementaires": [
+        {
+          "version": "2024-08-20T17:57:22.602Z",
+          "id": 0,
+          "libelle": "string",
+          "actif": true
+        }
+      ],
+      "matiereDangereuse": false,
+      "fragile": false,
+      "profil": "DPAM",
+      "referenceHorsRevatua": "RT-207",
+      "nombreColisAEmbarquer": 8,
+      "volumeAEmbarquer": 2
+    },
+    {
+      "id": 458,
+      "numero": "2020-BLSX-12/1",
+      "voyage": {
+        "numero": "2020-BLSX-12",
+        "numeroArmateur": "2020-14",
+        "nomNavire": "Blue Lagoon Ship",
+        "croisiere": false,
+        "dateDepart": "2020-12-10",
+        "heureDepart": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "ileDepart": "Tahiti",
+        "lieuDepart": "null",
+        "dateRetour": "2020-12-20",
+        "heureRetour": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "version": "2024-08-20T18:03:49.701Z",
+        "periple": [
+          {
+            "id": 84,
+            "ileDepart": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T18:03:49.701Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuDepart": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateDepart": "2020-03-10",
+            "heureDepart": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "ileArrivee": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T18:03:49.701Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuArrivee": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateArrivee": "2020-03-12",
+            "heureArrivee": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "version": "2024-08-20T18:03:49.701Z",
+            "numeroVoyage": "2020-BLS-10",
+            "nomNavire": "Blue Start IV",
+            "manifestes": [
+              {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateEdition": "2024-08-20T18:03:49.701Z",
+                "type": "SORTIE",
+                "nomFichier": "string",
+                "pdfConnaissements": [
+                  "string"
+                ],
+                "signe": true
+              }
+            ],
+            "genererManifeste": true,
+            "dateDerniereModificationConnaissement": "2024-08-20T18:03:49.701Z"
+          }
+        ],
+        "dateEditionAvisDepart": "2024-08-20",
+        "annule": true,
+        "messagesConflit": [
+          "string"
+        ],
+        "anomalies": [
+          "string"
+        ],
+        "utilise": false,
+        "manifestesInterIles": [
+          {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "dateEdition": "2024-08-20T18:03:49.701Z",
+            "type": "SORTIE",
+            "nomFichier": "string",
+            "pdfConnaissements": [
+              "string"
+            ],
+            "signe": true
+          }
+        ],
+        "nomFichierListeEquipage": "string",
+        "nomFichierMouvementsNavire": "string"
+      },
+      "paiement": "EXPEDITEUR",
+      "ileDepart": {
+        "id": 0,
+        "nom": "string",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "armateur": {
+        "version": "2024-08-20T18:03:49.701Z",
+        "numeroTahiti": "string",
+        "raisonSociale": "string",
+        "sigle": "string",
+        "telephone": "string",
+        "mail": "string",
+        "boitePostale": "string",
+        "commune": {
+          "id": 0,
+          "nom": "string",
+          "codePostal": "string"
+        },
+        "kbis": [
+          "string"
+        ],
+        "nomFichierKbis": "string",
+        "pieceIdentiteResponsableLegal": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteResponsableLegal": "string",
+        "procuration": [
+          "string"
+        ],
+        "nomFichierProcuration": "string",
+        "pieceIdentiteProcuration": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteProcuration": "string",
+        "dateArretActivite": "2021-10-04",
+        "dateValidationInscription": "2024-08-20T18:03:49.701Z",
+        "listeEmailsAvisDepart": "string",
+        "listeNumerosTahitiFavoris": "string",
+        "compteBancaire": "string",
+        "codeTiers": "string"
+      },
+      "expediteur": {
+        "denomination": "Moana",
+        "telephone": "40414243",
+        "mail": "moana@mail.pf",
+        "numeroTahiti": "A12345"
+      },
+      "lieuDepart": {
+        "version": "2024-08-20T18:03:49.701Z",
+        "id": 3,
+        "nom": "Tiputa"
+      },
+      "detailConnaissements": [
+        {
+          "id": 0,
+          "version": "2024-08-20T18:03:49.701Z",
+          "nbColis": 0,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "LITRE"
+          },
+          "description": "string",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "PONTEE",
+          "poids": 0,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 0,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        }
+      ],
+      "ileArrivee": {
+        "id": 0,
+        "nom": "string",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "lieuArrivee": {
+        "version": "2024-08-20T18:03:49.701Z",
+        "id": 3,
+        "nom": "Tiputa"
+      },
+      "destinataire": {
+        "denomination": "Moana",
+        "telephone": "40414243",
+        "mail": "moana@mail.pf",
+        "numeroTahiti": "A12345"
+      },
+      "version": "2024-08-20T18:03:49.701Z",
+      "dernierEtat": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T18:03:49.701Z",
+        "evenementConnaissement": "SAISIE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "dernierEtatOfficialise": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T18:03:49.701Z",
+        "evenementConnaissement": "SAISIE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "montantTotal": 0,
+      "numeroBac": "17",
+      "prestationsComplementaires": [
+        {
+          "version": "2024-08-20T18:03:49.701Z",
+          "id": 0,
+          "libelle": "string",
+          "actif": true
+        }
+      ],
+      "matiereDangereuse": false,
+      "fragile": false,
+      "profil": "DPAM",
+      "referenceHorsRevatua": "RT-207",
+      "nombreColisAEmbarquer": 8,
+      "volumeAEmbarquer": 2
+    }
+  ],
+  "number": 0,
+  "numberOfElements": 0,
+  "pageable": {
+    "page": 0,
+    "size": 0,
+    "sort": [
+      "string"
+    ]
+  },
+  "last": true,
+  "empty": true
+}
+
+]

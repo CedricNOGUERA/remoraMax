@@ -1,0 +1,41 @@
+export const stockageData = ['CALE', 'PONTEE', 'REFRIGERE', 'CONGELE']
+export const codeTarifTab = ['FRIGO', 'FRIGODGAE', 'PPN','PGC', 'AUTRE' ]
+export const contenantTab = [
+  'BAC',
+  'BIG BAG',
+  'BONBONNE',
+  'BOUTEILLE',
+  'CAISSE',
+  'CAMION GAZ',
+  'CARTON',
+  'CITERNE',
+  'CONTENEUR',
+  'CUBITAINER',
+  'FARDEAU',
+  'FUT',
+  'GLACIERE',
+  'ISOTENER',
+  'MCM GAZ',
+  'PALETTE',
+  'POT',
+  'RACK',
+  'SAC',
+  'SLING BAG',
+  'TOUQUE',
+  'VALISE',
+]
+
+export const status = [
+  'BROUILLON',
+  'DEMANDE',
+  'DEMANDE_REFUSEE',
+  'SAISIE',
+  'OFFICIALISE',
+  'OFFICIALISE_SOUS_RESERVE',
+  'MODIFIE',
+  'PRIS_EN_CHARGE',
+  'EMBARQUE',
+  'EMBARQUEMENT_REFUSE',
+  'TRANSFERE',
+  'ANNULE',
+]

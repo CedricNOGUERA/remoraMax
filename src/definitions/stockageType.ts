@@ -1,0 +1,1 @@
+export type stockageType = "REFRIGERE" | "CALE" | "CONGELE" | "PONTEE";

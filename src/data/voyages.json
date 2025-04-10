@@ -1,0 +1,133 @@
+
+{
+    "totalElements": 0,
+    "totalPages": 0,
+    "first": true,
+    "sort": {
+      "sorted": true,
+      "unsorted": true,
+      "empty": true
+    },
+    "size": 0,
+    "content": [
+      {
+        "numero": "2020-BLSX-12",
+        "numeroArmateur": "2020-14",
+        "nomNavire": "Blue Lagoon Ship",
+        "croisiere": false,
+        "dateDepart": "2020-12-10",
+        "heureDepart": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "ileDepart": "Tahiti",
+        "lieuDepart": "null",
+        "dateRetour": "2020-12-20",
+        "heureRetour": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "version": "2024-08-08T19:26:39.247Z",
+        "periple": [
+          {
+            "id": 84,
+            "ileDepart": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-08T19:26:39.247Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuDepart": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateDepart": "2020-03-10",
+            "heureDepart": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "ileArrivee": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-08T19:26:39.247Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuArrivee": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateArrivee": "2020-03-12",
+            "heureArrivee": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "version": "2024-08-08T19:26:39.247Z",
+            "numeroVoyage": "2020-BLS-10",
+            "nomNavire": "Blue Start IV",
+            "manifestes": [
+              {
+                "version": "2024-08-08T19:26:39.247Z",
+                "id": 0,
+                "dateEdition": "2024-08-08T19:26:39.247Z",
+                "type": "SORTIE",
+                "nomFichier": "string",
+                "pdfConnaissements": [
+                  "string"
+                ],
+                "signe": true
+              }
+            ],
+            "genererManifeste": true,
+            "dateDerniereModificationConnaissement": "2024-08-08T19:26:39.247Z"
+          }
+        ],
+        "dateEditionAvisDepart": "2024-08-08",
+        "annule": true,
+        "messagesConflit": [
+          "string"
+        ],
+        "anomalies": [
+          "string"
+        ],
+        "utilise": false,
+        "manifestesInterIles": [
+          {
+            "version": "2024-08-08T19:26:39.248Z",
+            "id": 0,
+            "dateEdition": "2024-08-08T19:26:39.248Z",
+            "type": "SORTIE",
+            "nomFichier": "string",
+            "pdfConnaissements": [
+              "string"
+            ],
+            "signe": true
+          }
+        ],
+        "nomFichierListeEquipage": "string",
+        "nomFichierMouvementsNavire": "string"
+      }
+    ],
+    "number": 0,
+    "numberOfElements": 0,
+    "pageable": {
+      "page": 0,
+      "size": 0,
+      "sort": [
+        "string"
+      ]
+    },
+    "last": true,
+    "empty": true
+  }

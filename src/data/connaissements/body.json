@@ -1,0 +1,49 @@
+[
+    {
+    "numero": "2024-TOE1-3/12",
+    "numeroVoyage": "2024-TOE1-3",
+    "paiement": "FAD",
+    "ileDepart": "Tahiti",
+    "lieuDepart": "PAPEETE",
+    "expediteur": {
+        "denomination": "CEDIS",
+        "telephone": "+689 40 541 265",
+        "mail": "matthieu.bouthet@lwane.com",
+        "numeroTahiti": "A35508"
+    },
+    "destinataire": {
+        "denomination": "CHP MOOREA - TOA MOOREA       ",
+        "telephone": "40 561 889     ",
+        "mail": "",
+        "numeroTahiti": ""
+    },
+    "ileArrivee": "Moorea",
+    "lieuArrivee": "Moorea",
+   
+    "detailConnaissementDTO": [
+        {
+            "id": 7624,
+            "nbColis": 2,
+            "description": "500G RAVIOLE FORESTIERE",
+            "codeSH": "03079119",
+            "codeTarif": "PPN",
+            "stockage": "CALE",
+            "poids": 1.084,
+            "unitePoids": "KILO",
+            "referenceExterne": "75305860"
+        }
+    ],
+    "referenceHorsRevatua": "1275313",
+    "nombreColisAEmbarquer": 2,
+    "volumeAEmbarquer": null,
+    "demandeParArmateur": false
+},
+
+
+"changer_etat" : {
+    "evenementConnaissementEnum": "DEMANDE",
+    "nbColisPresent": 5,
+    "numeroVoyage": "2024-TOE1-3",
+    "demandeParArmateur": false
+  }
+]

@@ -1,0 +1,313 @@
+
+[
+  {
+
+  "expediteur": {
+    "denomination": "Wan Distribution",
+    "telephone": "87752025",
+    "mail": "wan.distribution@lwane.com",
+    "numeroTahiti": "A268468189"
+  },
+
+  "numeroFacture": "1234567892",
+  "paiement": "EXPEDITEUR",
+  "ileDepart": "Tahiti",
+  "ileArrivee": "",
+  "lieuArrivee": "",
+  "dateEtl": "",
+  "dateCreation": "04/08/2024",
+  "dateModif": "04/08/2024",
+  "montantTotal": 41690,
+  "dateFacture": "03/08/2024",
+  "statusRevatua": "BROUILLON",
+
+  "destinataire": {
+    "denomination": "Super Marche Huahine",
+    "telephone": "87731520",
+    "mail": "super.huahine@gmail.com",
+    "numeroTahiti": "DKMLJNI566+6"
+  },
+
+  "detailConnaissementDTO": [
+    {
+      "id": "<integer>",
+      "codeSH": "<string>",
+      "codeTarif": "<string>",
+      "description": "110G Coquilles St-Jacques à la Bretonne TIPIAK x 12",
+      "nbColis": 3,
+      "poids": 4,
+      "stockage": "CONGELE",
+      "unitePoids": "KILO",
+      "version": "<dateTime>",
+      "contenant": "<string>",
+      "idCapacite": "<integer>",
+      "idNomenclature": "<integer>",
+      "volume": "<number>",
+      "uniteVolume": "DM3",
+      "montantDeclare": "<integer>",
+      "tarifUnitaire": 12480,
+      "montantLibre": "<integer>",
+      "matiereDangereuse": false,
+      "fragile": false,
+      "idsPrestationsComplementaires": [
+        "<integer>",
+        "<integer>"
+      ],
+      "referenceExterne": "1234567892"
+    
+    }
+  
+  ]
+ 
+},
+  {
+
+  "expediteur": {
+    "denomination": "Wan Distribution",
+    "telephone": "87752025",
+    "mail": "wan.distribution@lwane.com",
+    "numeroTahiti": "A268468189"
+  },
+
+  "numeroFacture": "1234567891",
+  "paiement": "EXPEDITEUR",
+  "ileDepart": "Tahiti",
+  "ileArrivee": "",
+  "lieuArrivee": "",
+  "dateEtl": "",
+  "dateCreation": "03/08/2024",
+  "dateModif": "03/08/2024",
+  "montantTotal": 41690,
+  "dateFacture": "03/08/2024",
+  "statusRevatua": "BROUILLON",
+
+  "destinataire": {
+    "denomination": "Super Marche Huahine",
+    "telephone": "87731520",
+    "mail": "super.huahine@gmail.com",
+    "numeroTahiti": "DKMLJNI566+6"
+  },
+
+  "detailConnaissementDTO": [
+    {
+      "id": "<integer>",
+      "codeSH": "<string>",
+      "codeTarif": "<string>",
+      "description": "110G Coquilles St-Jacques à la Bretonne TIPIAK x 12",
+      "nbColis": 3,
+      "poids": 4,
+      "stockage": "CONGELE",
+      "unitePoids": "KILO",
+      "version": "<dateTime>",
+      "contenant": "<string>",
+      "idCapacite": "<integer>",
+      "idNomenclature": "<integer>",
+      "volume": "<number>",
+      "uniteVolume": "DM3",
+      "montantDeclare": "<integer>",
+      "tarifUnitaire": 12480,
+      "montantLibre": "<integer>",
+      "matiereDangereuse": false,
+      "fragile": false,
+      "idsPrestationsComplementaires": [
+        "<integer>",
+        "<integer>"
+      ],
+      "referenceExterne": "1234567891"
+    
+    },
+    {
+      "id": "<integer>",
+      "codeSH": "<string>",
+      "codeTarif": "<string>",
+      "description": "50G Crêpes Emmental CARREFOUR CLASSIC' x 12",
+      "nbColis": 10,
+      "poids": 6,
+      "stockage": "CONGELE",
+      "unitePoids": "KILO",
+      "version": "<dateTime>",
+      "contenant": "<string>",
+      "idCapacite": "<integer>",
+      "idNomenclature": "<integer>",
+      "volume": "<number>",
+      "uniteVolume": "LITRE",
+      "montantDeclare": "<integer>",
+      "tarifUnitaire": 5040,
+      "montantLibre": "<integer>",
+      "matiereDangereuse": false,
+      "fragile": false,
+      "idsPrestationsComplementaires": [
+        "<integer>",
+        "<integer>"
+      ],
+      "referenceExterne": "1234567891"
+    }
+  
+  ]
+ 
+},
+  {
+
+  "expediteur": {
+    "denomination": "Wan Distribution",
+    "telephone": "87752025",
+    "mail": "wan.distribution@lwane.com",
+    "numeroTahiti": "A268468189"
+  },
+
+  "numeroFacture": "1234567890",
+  "paiement": "EXPEDITEUR",
+  "ileDaprt": "Tahiti",
+  "ileArrivee": "",
+  "lieuArrivee": "",
+  "dateEtl": "",
+  "dateCreation": "03/08/2024", 
+  "dateModif": "03/08/2024",
+  "montantTotal": 84150,
+  "dateFacture": "01/08/2024",
+
+  "destinataire": {
+    "denomination": "Super Marche Huahine",
+    "telephone": "87731520",
+    "mail": "super.huahine@gmail.com",
+    "numeroTahiti": "DKMLJNI566+6"
+  },
+
+
+  "detailConnaissementDTO": [
+    {
+      "id": "<integer>",
+      "codeSH": "<string>",
+      "codeTarif": "<string>",
+      "description": "500G LAIT SUNSHINE x 12",
+      "nbColis": 5,
+      "poids": 30,
+      "stockage": "PONTEE",
+      "unitePoids": "KILO",
+      "version": "<dateTime>",
+      "contenant": "<string>",
+      "idCapacite": "<integer>",
+      "idNomenclature": "<integer>",
+      "volume": "<number>",
+      "uniteVolume": "DM3",
+      "montantDeclare": "<integer>",
+      "tarifUnitaire": 7140,
+      "montantLibre": "<integer>",
+      "matiereDangereuse": false,
+      "fragile": false,
+      "idsPrestationsComplementaires": [
+        "<integer>",
+        "<integer>"
+      ],
+      "referenceExterne": "1234567890"
+    
+    },
+    {
+      "id": "<integer>",
+      "codeSH": "<string>",
+      "codeTarif": "<string>",
+      "description": "500G CASSOULET WS x 12",
+      "nbColis": 5,
+      "poids": 30,
+      "stockage": "PONTEE",
+      "unitePoids": "KILO",
+      "version": "<dateTime>",
+      "contenant": "<string>",
+      "idCapacite": "<integer>",
+      "idNomenclature": "<integer>",
+      "volume": "<number>",
+      "uniteVolume": "LITRE",
+      "montantDeclare": "<integer>",
+      "tarifUnitaire": 850,
+      "montantLibre": "<integer>",
+      "matiereDangereuse": "<boolean>",
+      "fragile": "<boolean>",
+      "idsPrestationsComplementaires": [
+        "<integer>",
+        "<integer>"
+      ],
+      "referenceExterne": "1234567890"
+    },
+    {
+      "id": "<integer>",
+      "codeSH": "<string>",
+      "codeTarif": "<string>",
+      "description": "500G LAIT SUNSHINE x 12",
+      "nbColis": 5,
+      "poids": 30,
+      "stockage": "PONTEE",
+      "unitePoids": "KILO",
+      "version": "<dateTime>",
+      "contenant": "<string>",
+      "idCapacite": "<integer>",
+      "idNomenclature": "<integer>",
+      "volume": "<number>",
+      "uniteVolume": "DM3",
+      "montantDeclare": "<integer>",
+      "tarifUnitaire": 7140,
+      "montantLibre": "<integer>",
+      "matiereDangereuse": false,
+      "fragile": false,
+      "idsPrestationsComplementaires": [
+        "<integer>",
+        "<integer>"
+      ],
+      "referenceExterne": "str1234567890ing"
+    
+    },
+    {
+      "id": "<integer>",
+      "codeSH": "<string>",
+      "codeTarif": "<string>",
+      "description": "500G CASSOULET WS x 12",
+      "nbColis": 5,
+      "poids": 30,
+      "stockage": "PONTEE",
+      "unitePoids": "KILO",
+      "version": "<dateTime>",
+      "contenant": "<string>",
+      "idCapacite": "<integer>",
+      "idNomenclature": "<integer>",
+      "volume": "<number>",
+      "uniteVolume": "LITRE",
+      "montantDeclare": "<integer>",
+      "tarifUnitaire": 850,
+      "montantLibre": "<integer>",
+      "matiereDangereuse": "<boolean>",
+      "fragile": "<boolean>",
+      "idsPrestationsComplementaires": [
+        "<integer>",
+        "<integer>"
+      ],
+      "referenceExterne": "1234567890"
+    },
+    {
+      "id": "<integer>",
+      "codeSH": "<string>",
+      "codeTarif": "<string>",
+      "description": "500G CASSOULET WS x 12",
+      "nbColis": 5,
+      "poids": 30,
+      "stockage": "PONTEE",
+      "unitePoids": "KILO",
+      "version": "<dateTime>",
+      "contenant": "<string>",
+      "idCapacite": "<integer>",
+      "idNomenclature": "<integer>",
+      "volume": "<number>",
+      "uniteVolume": "LITRE",
+      "montantDeclare": "<integer>",
+      "tarifUnitaire": 850,
+      "montantLibre": "<integer>",
+      "matiereDangereuse": "<boolean>",
+      "fragile": "<boolean>",
+      "idsPrestationsComplementaires": [
+        "<integer>",
+        "<integer>"
+      ],
+      "referenceExterne": "1234567890"
+    }
+  ]
+
+}
+]

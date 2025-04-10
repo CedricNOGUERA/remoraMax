@@ -1,0 +1,901 @@
+[
+    {
+        "id": 58,
+        "nom": "Ahe",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 66,
+                "nom": "AHE"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 67,
+                "nom": "TENUKUPARA"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "nom": "Amanu",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 85,
+                "nom": "AMANU"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "nom": "Anaa",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 86,
+                "nom": "ANAA"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "nom": "Apataki",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 68,
+                "nom": "APATAKI"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "nom": "Aratika",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 69,
+                "nom": "ARATIKA"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "nom": "Arutua",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 70,
+                "nom": "ARUTUA"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "nom": "Bora Bora",
+        "privee": false,
+        "codeZoneTarifaire": "ISLV",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 9,
+                "nom": "FAANUI"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 35,
+                "nom": "VAITAPE"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "nom": "Faaite",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 88,
+                "nom": "FAAITE"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "nom": "Fakarava",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 26,
+                "nom": "ROTOAVA"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 27,
+                "nom": "TETAMANU"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nom": "Fatu Hiva",
+        "privee": false,
+        "codeZoneTarifaire": "MAR",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 12,
+                "nom": "OMOA"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 13,
+                "nom": "HANAVAVE"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "nom": "Hao",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 31,
+                "nom": "QUAI LOUAN"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 32,
+                "nom": "OTEPA"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "nom": "Hereheretue",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 90,
+                "nom": "HEREHERETUE"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "nom": "Hikueru",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 91,
+                "nom": "HIKUERU"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "nom": "Hiva Oa",
+        "privee": false,
+        "codeZoneTarifaire": "MAR",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 14,
+                "nom": "ATUONA"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 16,
+                "nom": "TAHUUKU"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 25,
+                "nom": "Hakahetau"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 15,
+                "nom": "PUAMAU"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "nom": "Huahine",
+        "privee": false,
+        "codeZoneTarifaire": "ISLV",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 4,
+                "nom": "FARE"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 41,
+                "nom": "HUAHINE"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "nom": "Katiu",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 93,
+                "nom": "KATIU"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "nom": "Kauehi",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 71,
+                "nom": "KAUEHI"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "nom": "Kaukura",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 72,
+                "nom": "KAUKURA"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "nom": "Makatea",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 73,
+                "nom": "MAKATEA"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "nom": "Makemo",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 94,
+                "nom": "MAKEMO"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 95,
+                "nom": "POUHEVA"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "nom": "Mangareva",
+        "privee": false,
+        "codeZoneTarifaire": "GAMB",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 33,
+                "nom": "RIKITEA"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 132,
+                "nom": "MANGAREVA"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "nom": "Manihi",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 74,
+                "nom": "MANIHI"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "nom": "Marokau",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 97,
+                "nom": "MAROKAU"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "nom": "Mataiva",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 75,
+                "nom": "MATAIVA"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "nom": "Moorea",
+        "privee": false,
+        "codeZoneTarifaire": "IDV",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 2,
+                "nom": "VAIARE"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 3,
+                "nom": "PAO PAO"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "nom": "Niau",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 76,
+                "nom": "NIAU"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "nom": "Nuku Hiva",
+        "privee": false,
+        "codeZoneTarifaire": "MAR",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 17,
+                "nom": "TAIOHAE"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 18,
+                "nom": "TAIPIVAI"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 19,
+                "nom": "NUKU A TAHA"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "nom": "Nukutavake",
+        "privee": false,
+        "codeZoneTarifaire": "TUAE",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 115,
+                "nom": "NUKUTAVAKE"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nom": "Nukutepipi",
+        "privee": true,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2021-03-23T10:54:53.57",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 113,
+                "nom": "NUKUTEPIPI"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "nom": "Raiatea",
+        "privee": false,
+        "codeZoneTarifaire": "ISLV",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 5,
+                "nom": "RAIATEA"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 43,
+                "nom": "TE AVA PITI"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 44,
+                "nom": "UTUROA"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "nom": "Raivavae",
+        "privee": false,
+        "codeZoneTarifaire": "AUS",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 57,
+                "nom": "RAIVAVAE"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 58,
+                "nom": "MAHANATOA"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 59,
+                "nom": "RAIRUA"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "nom": "Rangiroa",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 28,
+                "nom": "OHOTU"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 29,
+                "nom": "TIPUTA"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 30,
+                "nom": "AVATORU"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "nom": "Raraka",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 77,
+                "nom": "RARAKA"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "nom": "Raroia",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 102,
+                "nom": "RAROIA"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "nom": "Rimatara",
+        "privee": false,
+        "codeZoneTarifaire": "AUS",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 51,
+                "nom": "RIMATARA"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 53,
+                "nom": "NAHO"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 52,
+                "nom": "TAANINI"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "nom": "Rurutu",
+        "privee": false,
+        "codeZoneTarifaire": "AUS",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 10,
+                "nom": "MOERAI"
+            },
+            {
+                "version": "2020-12-02T00:00:00",
+                "id": 36,
+                "nom": "AVERA"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "nom": "Taenga",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 105,
+                "nom": "TAENGA"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "nom": "Tahaa",
+        "privee": false,
+        "codeZoneTarifaire": "ISLV",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 6,
+                "nom": "TAPUAMU"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 7,
+                "nom": "VAITOARE"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 8,
+                "nom": "PATIO"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 34,
+                "nom": "QUAI AMARU"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "nom": "Tahiti",
+        "privee": false,
+        "codeZoneTarifaire": "IDV",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 1,
+                "nom": "PAPEETE"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 37,
+                "nom": "PHAETON"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 141,
+                "nom": "FARATEA"
+            },
+            {
+                "version": "2023-04-13T22:34:11.253271",
+                "id": 144,
+                "nom": "TAUTIRA"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "nom": "Tahuata",
+        "privee": false,
+        "codeZoneTarifaire": "MAR",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 20,
+                "nom": "VAITAHU"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 21,
+                "nom": "MOTOPU"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 63,
+                "nom": "HANAMOENOA"
+            },
+            {
+                "version": "2021-11-17T18:24:19.072709",
+                "id": 142,
+                "nom": "HAPATONI"
+            },
+            {
+                "version": "2021-11-17T18:24:19.09512",
+                "id": 143,
+                "nom": "KOKU'U"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "nom": "Takapoto",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 78,
+                "nom": "TAKAPOTO"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "nom": "Takaroa",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 79,
+                "nom": "TAKAROA"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "nom": "Takume",
+        "privee": false,
+        "codeZoneTarifaire": "TUAC",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 106,
+                "nom": "TAKUME"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "nom": "Tematangi",
+        "privee": false,
+        "codeZoneTarifaire": "TUAE",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 120,
+                "nom": "TEMATANGI"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "nom": "Tikehau",
+        "privee": false,
+        "codeZoneTarifaire": "TUAO",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 80,
+                "nom": "TIKEHAU"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "nom": "Tubuai",
+        "privee": false,
+        "codeZoneTarifaire": "AUS",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 11,
+                "nom": "MATAURA"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 54,
+                "nom": "TUBUAI"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 55,
+                "nom": "TE ARA"
+            },
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 56,
+                "nom": "MOANA"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "nom": "Tureia",
+        "privee": false,
+        "codeZoneTarifaire": "TUAE",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 121,
+                "nom": "TUREIA"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "nom": "Ua Huka",
+        "privee": false,
+        "codeZoneTarifaire": "MAR",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 22,
+                "nom": "Hane"
+            },
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 23,
+                "nom": "Vaipaee"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "nom": "Ua Pou",
+        "privee": false,
+        "codeZoneTarifaire": "MAR",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2020-09-08T00:00:00",
+                "id": 24,
+                "nom": "Hakahau"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "nom": "Vahitahi",
+        "privee": false,
+        "codeZoneTarifaire": "TUAE",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 122,
+                "nom": "VAHITAHI"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "nom": "Vairaatea",
+        "privee": false,
+        "codeZoneTarifaire": "TUAE",
+        "version": "2018-07-01T00:00:00",
+        "lieuDebarquements": [
+            {
+                "version": "2021-04-28T00:00:00",
+                "id": 123,
+                "nom": "VAIRAATEA"
+            }
+        ]
+    }
+]

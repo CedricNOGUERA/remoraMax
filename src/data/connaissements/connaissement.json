@@ -1,0 +1,1855 @@
+
+{
+  "totalElements": 0,
+  "totalPages": 0,
+  "first": true,
+  "sort": {
+    "sorted": true,
+    "unsorted": true,
+    "empty": true
+  },
+  "size": 0,
+  "content": [
+    {
+      "id": 458,
+      "numero": "2020-BLSX-12/1",
+      "voyage": {
+        "numero": "2020-BLSX-12",
+        "numeroArmateur": "2020-14",
+        "nomNavire": "HAWAIKI NUI",
+        "croisiere": false,
+        "dateDepart": "2020-12-10",
+        "heureDepart": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "ileDepart": "Tahiti",
+        "lieuDepart": "null",
+        "dateRetour": "2020-12-20",
+        "heureRetour": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "version": "2024-08-20T17:57:22.602Z",
+        "periple": [
+          {
+            "id": 84,
+            "ileDepart": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T17:57:22.602Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuDepart": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateDepart": "2020-03-10",
+            "heureDepart": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "ileArrivee": {
+              "id": 5,
+              "nom": "Moorea",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T17:57:22.602Z",
+              "lieuDebarquements": ""
+            },
+            "lieuArrivee": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateArrivee": "2020-03-26",
+            "heureArrivee": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "version": "2024-08-20T17:57:22.602Z",
+            "numeroVoyage": "2020-BLS-10",
+            "nomNavire": "Blue Start IV",
+            "manifestes": [
+              {
+                "version": "2024-08-20T17:57:22.602Z",
+                "id": 0,
+                "dateEdition": "2024-08-20T17:57:22.602Z",
+                "type": "SORTIE",
+                "nomFichier": "string",
+                "pdfConnaissements": [
+                  "string"
+                ],
+                "signe": true
+              }
+            ],
+            "genererManifeste": true,
+            "dateDerniereModificationConnaissement": "2024-08-20T17:57:22.602Z"
+          }
+        ],
+        "dateEditionAvisDepart": "2024-08-20",
+        "annule": true,
+        "messagesConflit": [
+          "string"
+        ],
+        "anomalies": [
+          "string"
+        ],
+        "utilise": false,
+        "manifestesInterIles": [
+          {
+            "version": "2024-08-20T17:57:22.602Z",
+            "id": 0,
+            "dateEdition": "2024-08-20T17:57:22.602Z",
+            "type": "SORTIE",
+            "nomFichier": "string",
+            "pdfConnaissements": [
+              "string"
+            ],
+            "signe": true
+          }
+        ],
+        "nomFichierListeEquipage": "string",
+        "nomFichierMouvementsNavire": "string"
+      },
+      "paiement": "EXPEDITEUR",
+      "ileDepart": {
+        "id": 0,
+        "nom": "string",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "armateur": {
+        "version": "2024-08-20T17:57:22.602Z",
+        "numeroTahiti": "string",
+        "raisonSociale": "string",
+        "sigle": "string",
+        "telephone": "40502060",
+        "mail": "toerau.bleuship@mail.com",
+        "boitePostale": "403500",
+        "commune": {
+          "id": 0,
+          "nom": "Papeete",
+          "codePostal": "98713"
+        },
+        "kbis": [
+          "string"
+        ],
+        "nomFichierKbis": "string",
+        "pieceIdentiteResponsableLegal": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteResponsableLegal": "string",
+        "procuration": [
+          "string"
+        ],
+        "nomFichierProcuration": "string",
+        "pieceIdentiteProcuration": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteProcuration": "string",
+        "dateArretActivite": "2021-10-04",
+        "dateValidationInscription": "2024-08-20T17:57:22.602Z",
+        "listeEmailsAvisDepart": "string",
+        "listeNumerosTahitiFavoris": "string",
+        "compteBancaire": "string",
+        "codeTiers": "string"
+      },
+      "expediteur": {
+        "denomination": "Wan Distribution",
+        "telephone": "87752025",
+        "mail": "wan.distribution@lwane.com",
+        "numeroTahiti": "A268468189"
+    },
+      "lieuDepart": {
+        "version": "2024-08-20T17:57:22.602Z",
+        "id": 3,
+        "nom": "Tiputa"
+      },
+      "detailConnaissements": [
+        {
+          "id": 0,
+          "version": "2024-08-20T17:57:22.602Z",
+          "nbColis": 3,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T17:57:22.602Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "KILO"
+          },
+          "description": "110G Coquilles St-Jacques à la Bretonne TIPIAK x 12",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T17:57:22.602Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T17:57:22.602Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "CONGELE",
+          "poids": 4,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 1500,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T17:57:22.602Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        }
+       
+      ],
+      "ileArrivee": {
+        "id": 0,
+        "nom": "Moorea",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "lieuArrivee": {
+        "version": "2024-08-20T17:57:22.602Z",
+        "id": 3,
+        "nom": ""
+      },
+      "destinataire": {
+        "denomination": "Super Marche Huahine",
+        "telephone": "87731520",
+        "mail": "super.huahine@gmail.com",
+        "numeroTahiti": "DKMLJNI566+6"
+    },
+      "version": "2024-08-20T17:57:22.602Z",
+      "dernierEtat": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T17:57:22.602Z",
+        "evenementConnaissement": "EMBARQUE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "dernierEtatOfficialise": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T17:57:22.602Z",
+        "evenementConnaissement": "EMBARQUE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "montantTotal": 0,
+      "numeroBac": "17",
+      "prestationsComplementaires": [
+        {
+          "version": "2024-08-20T17:57:22.602Z",
+          "id": 0,
+          "libelle": "string",
+          "actif": true
+        }
+      ],
+      "matiereDangereuse": false,
+      "fragile": false,
+      "profil": "DPAM",
+      "referenceHorsRevatua": "RT-207",
+      "nombreColisAEmbarquer": 8,
+      "volumeAEmbarquer": 2
+    },
+    {
+      "id": 458,
+      "numero": "2020-BLSX-12/1",
+      "voyage": {
+        "numero": "2020-BLSX-12",
+        "numeroArmateur": "2020-14",
+        "nomNavire": "Blue Lagoon Ship",
+        "croisiere": false,
+        "dateDepart": "2020-12-10",
+        "heureDepart": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "ileDepart": "Tahiti",
+        "lieuDepart": "null",
+        "dateRetour": "2020-12-20",
+        "heureRetour": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "version": "2024-08-20T17:57:22.602Z",
+        "periple": [
+          {
+            "id": 84,
+            "ileDepart": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T17:57:22.602Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuDepart": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateDepart": "2020-03-10",
+            "heureDepart": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "ileArrivee": {
+              "id": 5,
+              "nom": "Moorea",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T17:57:22.602Z",
+              "lieuDebarquements": ""
+            },
+            "lieuArrivee": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateArrivee": "2020-03-12",
+            "heureArrivee": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "version": "2024-08-20T17:57:22.602Z",
+            "numeroVoyage": "2020-BLS-10",
+            "nomNavire": "Blue Start IV",
+            "manifestes": [
+              {
+                "version": "2024-08-20T17:57:22.602Z",
+                "id": 0,
+                "dateEdition": "2024-08-20T17:57:22.602Z",
+                "type": "SORTIE",
+                "nomFichier": "string",
+                "pdfConnaissements": [
+                  "string"
+                ],
+                "signe": true
+              }
+            ],
+            "genererManifeste": true,
+            "dateDerniereModificationConnaissement": "2024-08-20T17:57:22.602Z"
+          }
+        ],
+        "dateEditionAvisDepart": "2024-08-20",
+        "annule": true,
+        "messagesConflit": [
+          "string"
+        ],
+        "anomalies": [
+          "string"
+        ],
+        "utilise": false,
+        "manifestesInterIles": [
+          {
+            "version": "2024-08-20T17:57:22.602Z",
+            "id": 0,
+            "dateEdition": "2024-08-20T17:57:22.602Z",
+            "type": "SORTIE",
+            "nomFichier": "string",
+            "pdfConnaissements": [
+              "string"
+            ],
+            "signe": true
+          }
+        ],
+        "nomFichierListeEquipage": "string",
+        "nomFichierMouvementsNavire": "string"
+      },
+      "paiement": "EXPEDITEUR",
+      "ileDepart": {
+        "id": 0,
+        "nom": "string",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "armateur": {
+        "version": "2024-08-20T17:57:22.602Z",
+        "numeroTahiti": "string",
+        "raisonSociale": "string",
+        "sigle": "string",
+        "telephone": "string",
+        "mail": "string",
+        "boitePostale": "string",
+        "commune": {
+          "id": 0,
+          "nom": "string",
+          "codePostal": "string"
+        },
+        "kbis": [
+          "string"
+        ],
+        "nomFichierKbis": "string",
+        "pieceIdentiteResponsableLegal": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteResponsableLegal": "string",
+        "procuration": [
+          "string"
+        ],
+        "nomFichierProcuration": "string",
+        "pieceIdentiteProcuration": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteProcuration": "string",
+        "dateArretActivite": "2021-10-04",
+        "dateValidationInscription": "2024-08-20T17:57:22.602Z",
+        "listeEmailsAvisDepart": "string",
+        "listeNumerosTahitiFavoris": "string",
+        "compteBancaire": "string",
+        "codeTiers": "string"
+      },
+      "expediteur": {
+        "denomination": "Wan Distribution",
+        "telephone": "87752025",
+        "mail": "wan.distribution@lwane.com",
+        "numeroTahiti": "A268468189"
+    },
+      "lieuDepart": {
+        "version": "2024-08-20T17:57:22.602Z",
+        "id": 3,
+        "nom": "Tiputa"
+      },
+      "detailConnaissements": [
+      
+        {
+          "id": 0,
+          "version": "2024-08-20T17:57:22.602Z",
+          "nbColis": 3,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T17:57:22.602Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "KILO"
+          },
+          "description": "100G CAMEMBERT CARACTERE x 12",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T17:57:22.602Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T17:57:22.602Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "REFRIGERE",
+          "poids": 1,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 1500,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T17:57:22.602Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        },
+        {
+          "id": 0,
+          "version": "2024-08-20T17:57:22.602Z",
+          "nbColis": 3,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T17:57:22.602Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "KILO"
+          },
+          "description": "120G EMMENTAL RAPE CRF x 48",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T17:57:22.602Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T17:57:22.602Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "REFRIGERE",
+          "poids": 5,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 1500,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T17:57:22.602Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        }
+      ],
+      "ileArrivee": {
+        "id": 0,
+        "nom": "Moorea",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "lieuArrivee": {
+        "version": "2024-08-20T17:57:22.602Z",
+        "id": 3,
+        "nom": ""
+      },
+      "destinataire": {
+        "denomination": "Super Marche Huahine",
+        "telephone": "87731520",
+        "mail": "super.huahine@gmail.com",
+        "numeroTahiti": "DKMLJNI566+6"
+    },
+      "version": "2024-08-20T17:57:22.602Z",
+      "dernierEtat": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T17:57:22.602Z",
+        "evenementConnaissement": "EMBARQUE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "dernierEtatOfficialise": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T17:57:22.602Z",
+        "evenementConnaissement": "EMBARQUE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "montantTotal": 0,
+      "numeroBac": "17",
+      "prestationsComplementaires": [
+        {
+          "version": "2024-08-20T17:57:22.602Z",
+          "id": 0,
+          "libelle": "string",
+          "actif": true
+        }
+      ],
+      "matiereDangereuse": false,
+      "fragile": false,
+      "profil": "DPAM",
+      "referenceHorsRevatua": "RT-207",
+      "nombreColisAEmbarquer": 8,
+      "volumeAEmbarquer": 2
+    },
+    {
+      "id": 458,
+      "numero": "2020-BLSX-12/3",
+      "voyage": {
+        "numero": "2020-BLSX-10",
+        "numeroArmateur": "2020-14",
+        "nomNavire": "Blue Lagoon Ship",
+        "croisiere": false,
+        "dateDepart": "2020-12-10",
+        "heureDepart": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "ileDepart": "Tahiti",
+        "lieuDepart": "null",
+        "dateRetour": "2020-12-20",
+        "heureRetour": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        },
+        "version": "2024-08-20T18:03:49.701Z",
+        "periple": [
+          {
+            "id": 84,
+            "ileDepart": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T18:03:49.701Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuDepart": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateDepart": "2020-03-10",
+            "heureDepart": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "ileArrivee": {
+              "id": 5,
+              "nom": "Tahiti",
+              "privee": false,
+              "codeZoneTarifaire": "string",
+              "version": "2024-08-20T18:03:49.701Z",
+              "lieuDebarquements": "Vairao"
+            },
+            "lieuArrivee": {
+              "id": 0,
+              "nom": "Tiputa"
+            },
+            "dateArrivee": "2020-03-12",
+            "heureArrivee": {
+              "hour": 0,
+              "minute": 0,
+              "second": 0,
+              "nano": 0
+            },
+            "version": "2024-08-20T18:03:49.701Z",
+            "numeroVoyage": "2020-BLS-10",
+            "nomNavire": "Blue Start IV",
+            "manifestes": [
+              {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateEdition": "2024-08-20T18:03:49.701Z",
+                "type": "SORTIE",
+                "nomFichier": "string",
+                "pdfConnaissements": [
+                  "string"
+                ],
+                "signe": true
+              }
+            ],
+            "genererManifeste": true,
+            "dateDerniereModificationConnaissement": "2024-08-20T18:03:49.701Z"
+          }
+        ],
+        "dateEditionAvisDepart": "2024-08-20",
+        "annule": true,
+        "messagesConflit": [
+          "string"
+        ],
+        "anomalies": [
+          "string"
+        ],
+        "utilise": false,
+        "manifestesInterIles": [
+          {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "dateEdition": "2024-08-20T18:03:49.701Z",
+            "type": "SORTIE",
+            "nomFichier": "string",
+            "pdfConnaissements": [
+              "string"
+            ],
+            "signe": true
+          }
+        ],
+        "nomFichierListeEquipage": "string",
+        "nomFichierMouvementsNavire": "string"
+      },
+      "paiement": "EXPEDITEUR",
+      "ileDepart": {
+        "id": 0,
+        "nom": "string",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "armateur": {
+        "version": "2024-08-20T18:03:49.701Z",
+        "numeroTahiti": "string",
+        "raisonSociale": "string",
+        "sigle": "string",
+        "telephone": "40502060",
+        "mail": "toerau.bleuship@mail.com",
+        "boitePostale": "403500",
+        "commune": {
+          "id": 0,
+          "nom": "Papeete",
+          "codePostal": "98713"
+        },
+        "kbis": [
+          "string"
+        ],
+        "nomFichierKbis": "string",
+        "pieceIdentiteResponsableLegal": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteResponsableLegal": "string",
+        "procuration": [
+          "string"
+        ],
+        "nomFichierProcuration": "string",
+        "pieceIdentiteProcuration": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteProcuration": "string",
+        "dateArretActivite": "2021-10-04",
+        "dateValidationInscription": "2024-08-20T18:03:49.701Z",
+        "listeEmailsAvisDepart": "string",
+        "listeNumerosTahitiFavoris": "string",
+        "compteBancaire": "string",
+        "codeTiers": "string"
+      },
+      "expediteur": {
+        "denomination": "Moana",
+        "telephone": "40414243",
+        "mail": "moana@mail.pf",
+        "numeroTahiti": "A12345"
+      },
+      "lieuDepart": {
+        "version": "2024-08-20T18:03:49.701Z",
+        "id": 3,
+        "nom": "Tiputa"
+      },
+      "detailConnaissements": [
+        {
+          "id": 0,
+          "version": "2024-08-20T18:03:49.701Z",
+          "nbColis": 5,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "LITRE"
+          },
+          "description": "100G CAMEMBERT CARACTERE x 12",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "PONTEE",
+          "poids": 0,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 0,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        },
+        {
+          "id": 0,
+          "version": "2024-08-20T18:03:49.701Z",
+          "nbColis": 5,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "LITRE"
+          },
+          "description": "100G CAMEMBERT CARACTERE x 12",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "PONTEE",
+          "poids": 0,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 0,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        },
+        {
+          "id": 0,
+          "version": "2024-08-20T18:03:49.701Z",
+          "nbColis": 5,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "LITRE"
+          },
+          "description": "100G CAMEMBERT CARACTERE x 12",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "PONTEE",
+          "poids": 0,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 0,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        },
+        {
+          "id": 0,
+          "version": "2024-08-20T18:03:49.701Z",
+          "nbColis": 5,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "LITRE"
+          },
+          "description": "100G CAMEMBERT CARACTERE x 12",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "PONTEE",
+          "poids": 0,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 0,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        },
+        {
+          "id": 0,
+          "version": "2024-08-20T18:03:49.701Z",
+          "nbColis": 5,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "LITRE"
+          },
+          "description": "100G CAMEMBERT CARACTERE x 12",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "PONTEE",
+          "poids": 0,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 0,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        },
+        {
+          "id": 0,
+          "version": "2024-08-20T18:03:49.701Z",
+          "nbColis": 5,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "LITRE"
+          },
+          "description": "100G CAMEMBERT CARACTERE x 12",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "PONTEE",
+          "poids": 0,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 0,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        },
+        {
+          "id": 0,
+          "version": "2024-08-20T18:03:49.701Z",
+          "nbColis": 5,
+          "contenant": {
+            "id": 0,
+            "libelle": "string"
+          },
+          "capacite": {
+            "version": "2024-08-20T18:03:49.701Z",
+            "id": 0,
+            "quantite": 0,
+            "unite": "LITRE"
+          },
+          "description": "100G CAMEMBERT CARACTERE x 12",
+          "codeSH": {
+            "id": 0,
+            "nomenclature": "string",
+            "libelle": "string",
+            "uniteMesureDouane": {
+              "id": 0,
+              "code": "string",
+              "libelle": "string"
+            },
+            "categorieMatiereDangereuse": {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "variation": {
+                "version": "2024-08-20T18:03:49.701Z",
+                "id": 0,
+                "dateDebut": "2024-08-20",
+                "dateFin": "2024-08-20"
+              },
+              "libelle": "string",
+              "codesSHParent": [
+                "string"
+              ]
+            },
+            "designations": [
+              {
+                "nomenclature": "07144000",
+                "idNomenclature": 10,
+                "libelle": "Taro frais, entiers, non épluchés, produits localement",
+                "codeAvantage": "PPN",
+                "categorieMatiereDangereuse": "coprah",
+                "nombreUtilisations": 0,
+                "codeTarifCode": "PPN"
+              }
+            ]
+          },
+          "codeTarif": {
+            "id": 0,
+            "code": "string",
+            "libelle": "string",
+            "refrigere": true,
+            "remboursementDgae": true
+          },
+          "stockage": "PONTEE",
+          "poids": 0,
+          "unitePoids": "KILO",
+          "volume": 0,
+          "uniteVolume": "LITRE",
+          "montantDeclare": 0,
+          "montantOfficiel": 0,
+          "numeroOrdre": 0,
+          "tarifUnitaire": 0,
+          "montantLibre": 0,
+          "matiereDangereuse": true,
+          "fragile": true,
+          "codeAvantage": {
+            "code": "string",
+            "libelle": "string"
+          },
+          "prestationsComplementaires": [
+            {
+              "version": "2024-08-20T18:03:49.701Z",
+              "id": 0,
+              "libelle": "string",
+              "actif": true
+            }
+          ],
+          "numeroConnaissement": "string"
+        }
+      ],
+      "ileArrivee": {
+        "id": 0,
+        "nom": "RAIATEA",
+        "privee": true,
+        "archipel": {
+          "id": 0,
+          "nom": "Tuamotu",
+          "nbJoursMaxSansTouche": 15
+        }
+      },
+      "lieuArrivee": {
+        "version": "2024-08-20T18:03:49.701Z",
+        "id": 3,
+        "nom": "RAIATEA"
+      },
+      "destinataire": {
+        "denomination": "CHAMPION RAIATEA",
+        "telephone": "40414243",
+        "mail": "champion.raiatea@lwane.com",
+        "numeroTahiti": "A12345"
+      },
+      "version": "2024-08-20T18:03:49.701Z",
+      "dernierEtat": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T18:03:49.701Z",
+        "evenementConnaissement": "SAISIE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "dernierEtatOfficialise": {
+        "id": 0,
+        "dateEvenement": "2024-08-20T18:03:49.701Z",
+        "evenementConnaissement": "SAISIE",
+        "utilisateur": {
+          "identifiant": "string",
+          "nom": "string",
+          "prenom": "string",
+          "mail": "string"
+        },
+        "nomFichier": "string",
+        "motif": "string",
+        "commentaire": "string"
+      },
+      "montantTotal": 0,
+      "numeroBac": "17",
+      "prestationsComplementaires": [
+        {
+          "version": "2024-08-20T18:03:49.701Z",
+          "id": 0,
+          "libelle": "string",
+          "actif": true
+        }
+      ],
+      "matiereDangereuse": false,
+      "fragile": false,
+      "profil": "DPAM",
+      "referenceHorsRevatua": "RT-207",
+      "nombreColisAEmbarquer": 8,
+      "volumeAEmbarquer": 2
+    },
+    {
+      "id": 43600,
+      "numero": "2024-TOE1-3/35",
+      "voyage": {
+          "numero": "2024-TOE1-3",
+          "numeroArmateur": "916270",
+          "nomNavire": "TOERAU1",
+          "croisiere": false,
+          "dateDepart": "2024-09-17",
+          "heureDepart": "08:00:00",
+          "ileDepart": "Tahiti",
+          "lieuDepart": "PAPEETE",
+          "dateRetour": "2024-09-17",
+          "heureRetour": "11:00:00",
+          "version": "2024-09-10T09:41:25.325",
+          "periple": [
+              {
+                  "id": 32823,
+                  "ileDepart": {
+                      "id": 29,
+                      "nom": "Tahiti",
+                      "privee": false,
+                      "codeZoneTarifaire": "IDV",
+                      "version": "2019-05-29T00:00:00",
+                      "lieuDebarquements": [
+                          {
+                              "version": "2019-05-29T00:00:00",
+                              "id": 1,
+                              "nom": "PAPEETE"
+                          },
+                          {
+                              "version": "2021-04-28T00:00:00",
+                              "id": 37,
+                              "nom": "PHAETON"
+                          },
+                          {
+                              "version": "2021-04-28T00:00:00",
+                              "id": 141,
+                              "nom": "FARATEA"
+                          },
+                          {
+                              "version": "2023-04-13T17:43:03.488315",
+                              "id": 144,
+                              "nom": "TAUTIRA"
+                          }
+                      ]
+                  },
+                  "lieuDepart": {
+                      "id": 1,
+                      "nom": "PAPEETE"
+                  },
+                  "dateDepart": "2024-09-17",
+                  "heureDepart": "08:00:00",
+                  "ileArrivee": {
+                      "id": 30,
+                      "nom": "Moorea",
+                      "privee": false,
+                      "codeZoneTarifaire": "IDV",
+                      "version": "2019-05-29T00:00:00",
+                      "lieuDebarquements": [
+                          {
+                              "version": "2019-05-29T00:00:00",
+                              "id": 2,
+                              "nom": "VAIARE"
+                          },
+                          {
+                              "version": "2019-05-29T00:00:00",
+                              "id": 3,
+                              "nom": "PAO PAO"
+                          }
+                      ]
+                  },
+                  "lieuArrivee": {
+                      "id": 2,
+                      "nom": "VAIARE"
+                  },
+                  "dateArrivee": "2024-09-17",
+                  "heureArrivee": "09:00:00",
+                  "version": "2024-09-10T09:41:25.329",
+                  "numeroVoyage": "2024-TOE1-3",
+                  "nomNavire": "TOERAU1",
+                  "manifestes": [],
+                  "genererManifeste": false,
+                  "dateDerniereModificationConnaissement": null
+              },
+              {
+                  "id": 32824,
+                  "ileDepart": {
+                      "id": 30,
+                      "nom": "Moorea",
+                      "privee": false,
+                      "codeZoneTarifaire": "IDV",
+                      "version": "2019-05-29T00:00:00",
+                      "lieuDebarquements": [
+                          {
+                              "version": "2019-05-29T00:00:00",
+                              "id": 2,
+                              "nom": "VAIARE"
+                          },
+                          {
+                              "version": "2019-05-29T00:00:00",
+                              "id": 3,
+                              "nom": "PAO PAO"
+                          }
+                      ]
+                  },
+                  "lieuDepart": {
+                      "id": 2,
+                      "nom": "VAIARE"
+                  },
+                  "dateDepart": "2024-09-17",
+                  "heureDepart": "10:00:00",
+                  "ileArrivee": {
+                      "id": 29,
+                      "nom": "Tahiti",
+                      "privee": false,
+                      "codeZoneTarifaire": "IDV",
+                      "version": "2019-05-29T00:00:00",
+                      "lieuDebarquements": [
+                          {
+                              "version": "2019-05-29T00:00:00",
+                              "id": 1,
+                              "nom": "PAPEETE"
+                          },
+                          {
+                              "version": "2021-04-28T00:00:00",
+                              "id": 37,
+                              "nom": "PHAETON"
+                          },
+                          {
+                              "version": "2021-04-28T00:00:00",
+                              "id": 141,
+                              "nom": "FARATEA"
+                          },
+                          {
+                              "version": "2023-04-13T17:43:03.488315",
+                              "id": 144,
+                              "nom": "TAUTIRA"
+                          }
+                      ]
+                  },
+                  "lieuArrivee": {
+                      "id": 1,
+                      "nom": "PAPEETE"
+                  },
+                  "dateArrivee": "2024-09-17",
+                  "heureArrivee": "11:00:00",
+                  "version": "2024-09-10T09:41:25.355",
+                  "numeroVoyage": "2024-TOE1-3",
+                  "nomNavire": "TOERAU1",
+                  "manifestes": [],
+                  "genererManifeste": false,
+                  "dateDerniereModificationConnaissement": null
+              }
+          ],
+          "dateEditionAvisDepart": null,
+          "annule": false,
+          "messagesConflit": [],
+          "anomalies": [],
+          "utilise": null,
+          "manifestesInterIles": [],
+          "nomFichierListeEquipage": null,
+          "nomFichierMouvementsNavire": null
+      },
+      "paiement": "FAD",
+      "ileDepart": {
+          "id": 29,
+          "nom": "Tahiti",
+          "privee": false,
+          "archipel": {
+              "id": 4,
+              "nom": "Société",
+              "nbJoursMaxSansTouche": null
+          }
+      },
+      "armateur": null,
+      "expediteur": {
+          "denomination": "LOGIS",
+          "telephone": "+689 40 541 265",
+          "mail": "cedis@mail.pf",
+          "numeroTahiti": "A35508"
+      },
+      "lieuDepart": {
+          "version": "2019-05-29T00:00:00",
+          "id": 1,
+          "nom": "PAPEETE"
+      },
+      "detailConnaissements": [
+          {
+              "id": 91518,
+              "version": "2024-09-12T16:37:14.315",
+              "nbColis": 1,
+              "contenant": null,
+              "capacite": null,
+              "description": "CHOU FLEUR IMPORT KG",
+              "codeSH": {
+                  "id": 73513,
+                  "nomenclature": "04022900",
+                  "libelle": "Laits et crème de lait, concentrés, en poudre, en granulés ou sous d'autres formes solides, avec addition de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses > 1,5%",
+                  "uniteMesureDouane": null,
+                  "categorieMatiereDangereuse": null,
+                  "designations": [
+                      {
+                          "nomenclature": "04022900",
+                          "idNomenclature": 73513,
+                          "libelle": "Substitut du lait maternel standard 0 à 18 mois (laits 1er âge, 2ème âge et 3ème age), hors substitut du lait maternel particuliers et hors substitut du lait maternel thérapeutiques",
+                          "codeAvantage": "PPN",
+                          "categorieMatiereDangereuse": null,
+                          "nombreUtilisations": 0,
+                          "codeTarifCode": null
+                      }
+                  ]
+              },
+              "codeTarif": {
+                  "id": 1,
+                  "code": "PPN",
+                  "libelle": "Produits de première nécessité pris en charge",
+                  "refrigere": false,
+                  "remboursementDgae": true
+              },
+              "stockage": "PONTEE",
+              "poids": 9,
+              "unitePoids": "KILO",
+              "volume": null,
+              "uniteVolume": null,
+              "montantDeclare": null,
+              "montantOfficiel": null,
+              "numeroOrdre": null,
+              "tarifUnitaire": null,
+              "montantLibre": null,
+              "matiereDangereuse": false,
+              "fragile": false,
+              "codeAvantage": null,
+              "prestationsComplementaires": null,
+              "numeroConnaissement": null
+          }
+      ],
+      "ileArrivee": {
+          "id": 30,
+          "nom": "Moorea",
+          "privee": false,
+          "archipel": {
+              "id": 4,
+              "nom": "Société",
+              "nbJoursMaxSansTouche": null
+          }
+      },
+      "lieuArrivee": {
+          "version": "2019-05-29T00:00:00",
+          "id": 2,
+          "nom": "VAIARE"
+      },
+      "destinataire": {
+          "denomination": "CHP MOOREA - TOA MOOREA       ",
+          "telephone": "40 561 889     ",
+          "mail": "champion@mail.pf",
+          "numeroTahiti": ""
+      },
+      "version": "2024-09-12T16:37:14.281",
+      "dernierEtat": {
+          "id": 113148,
+          "dateEvenement": "2024-09-12T16:37:14.263",
+          "evenementConnaissement": "BROUILLON",
+          "utilisateur": {
+              "identifiant": "8ec2ab52-65c6-4d78-a0fe-2b8277811afc",
+              "nom": "LOGIS",
+              "prenom": "API CHARGEUR",
+              "mail": "matthieu.bouthet@lwane.com"
+          },
+          "nomFichier": null,
+          "motif": null,
+          "commentaire": null
+      },
+      "dernierEtatOfficialise": null,
+      "montantTotal": null,
+      "numeroBac": null,
+      "prestationsComplementaires": null,
+      "matiereDangereuse": false,
+      "fragile": false,
+      "profil": "APPLICATIF_CHARGEUR",
+      "referenceHorsRevatua": "1273720",
+      "nombreColisAEmbarquer": 32,
+      "volumeAEmbarquer": null
+  }
+  ],
+  "number": 0,
+  "numberOfElements": 0,
+  "pageable": {
+    "page": 0,
+    "size": 0,
+    "sort": [
+      "string"
+    ]
+  },
+  "last": true,
+  "empty": true
+}

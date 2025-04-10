@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Royal British Company",
+        "user_api": "Royal British Company_api",
+        "password_api": "Royal British Company",
+        "refresh_token": "sdgnbsb6156r5b18e",
+        "created_at": "20204-08-20",
+        "updated_at": ""
+    },
+    {
+        "id": 2,
+        "name": "Tuamotu Shipping",
+        "user_api": "Tuamotu Shipping",
+        "password_api": "Tuamotu Shipping",
+        "refresh_token": "sdgnbsb6156r5b18e",
+        "created_at": "20204-08-20",
+        "updated_at": ""
+    },
+    {
+        "id": 5,
+        "name": "Karapu Corporation",
+        "user_api": "Karapu Corporation",
+        "password_api": "Karapu Corporation",
+        "refresh_token": "sdgnbsb6156rgvrdvszvezsdv5b18e",
+        "created_at": "20204-08-20",
+        "updated_at": ""
+    }
+]

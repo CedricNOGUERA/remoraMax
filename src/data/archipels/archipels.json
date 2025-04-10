@@ -1,0 +1,24 @@
+{
+    "archipels": [
+        {
+            "id": 1,
+            "name": "Tuamotu"
+        },
+        {
+            "id": 2,
+            "name": "Gambier"
+        },
+        {
+            "id": 3,
+            "name": "Marquises"
+        },
+        {
+            "id": 4,
+            "name": "Société"
+        },
+        {
+            "id": 5,
+            "name": "Australes"
+        }
+    ]
+}

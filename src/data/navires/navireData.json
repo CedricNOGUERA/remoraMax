@@ -1,0 +1,179 @@
+{
+  "totalElements": 0,
+  "totalPages": 0,
+  "first": true,
+  "sort": {
+    "sorted": true,
+    "unsorted": true,
+    "empty": true
+  },
+  "size": 0,
+  "content": [
+    {
+      "id": 4,
+      "nom": "Black Pearl",
+      "abreviation": "BP1",
+      "vehiculeRoulant": false,
+      "armateur": {
+        "version": "2024-08-19T21:38:09.921Z",
+        "numeroTahiti": "string",
+        "raisonSociale": "string",
+        "sigle": "string",
+        "telephone": "string",
+        "mail": "string",
+        "boitePostale": "string",
+        "commune": {
+          "id": 0,
+          "nom": "string",
+          "codePostal": "string"
+        },
+        "kbis": [
+          "string"
+        ],
+        "nomFichierKbis": "string",
+        "pieceIdentiteResponsableLegal": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteResponsableLegal": "string",
+        "procuration": [
+          "string"
+        ],
+        "nomFichierProcuration": "string",
+        "pieceIdentiteProcuration": [
+          "string"
+        ],
+        "nomFichierPieceIdentiteProcuration": "string",
+        "dateArretActivite": "2021-10-04",
+        "dateValidationInscription": "2024-08-19T21:38:09.921Z",
+        "listeEmailsAvisDepart": "string",
+        "listeNumerosTahitiFavoris": "string",
+        "compteBancaire": "string",
+        "codeTiers": "string"
+      },
+      "licences": [
+        {
+          "id": 0,
+          "dateOctroit": "2019-10-05",
+          "dateFin": "2021-10-04",
+          "reference": "Arrêté N° xxx du 01/01/2000",
+          "armateur": {
+            "version": "2024-08-19T21:38:09.921Z",
+            "numeroTahiti": "string",
+            "raisonSociale": "string",
+            "sigle": "string",
+            "telephone": "string",
+            "mail": "string",
+            "boitePostale": "string",
+            "commune": {
+              "id": 0,
+              "nom": "string",
+              "codePostal": "string"
+            },
+            "kbis": [
+              "string"
+            ],
+            "nomFichierKbis": "string",
+            "pieceIdentiteResponsableLegal": [
+              "string"
+            ],
+            "nomFichierPieceIdentiteResponsableLegal": "string",
+            "procuration": [
+              "string"
+            ],
+            "nomFichierProcuration": "string",
+            "pieceIdentiteProcuration": [
+              "string"
+            ],
+            "nomFichierPieceIdentiteProcuration": "string",
+            "dateArretActivite": "2021-10-04",
+            "dateValidationInscription": "2024-08-19T21:38:09.921Z",
+            "listeEmailsAvisDepart": "string",
+            "listeNumerosTahitiFavoris": "string",
+            "compteBancaire": "string",
+            "codeTiers": "string"
+          },
+          "autorisations": [
+            {
+              "version": "2024-08-19T21:38:09.921Z",
+              "id": 0,
+              "dateDebut": "2019-10-05",
+              "dateFin": "2021-10-05",
+              "exceptionnel": false,
+              "ile": {
+                "version": "2024-08-19T21:38:09.921Z",
+                "id": 5,
+                "nom": "Tahiti",
+                "privee": false,
+                "lieuDebarquements": "Vairao",
+                "archipel": {
+                  "id": 0,
+                  "nom": "Tuamotu",
+                  "nbJoursMaxSansTouche": 15
+                },
+                "ordreDesserte": 0,
+                "controleDesserte": true
+              },
+              "reference": "string",
+              "commentaire": "string"
+            }
+          ],
+          "ilePortBase": {
+            "version": "2024-08-19T21:38:09.921Z",
+            "id": 5,
+            "nom": "Tahiti",
+            "privee": false,
+            "lieuDebarquements": "Vairao",
+            "archipel": {
+              "id": 0,
+              "nom": "Tuamotu",
+              "nbJoursMaxSansTouche": 15
+            },
+            "ordreDesserte": 0,
+            "controleDesserte": true
+          },
+          "portBase": {
+            "version": "2024-08-19T21:38:09.921Z",
+            "id": 3,
+            "nom": "Tiputa"
+          },
+          "version": "2024-08-19T21:38:09.921Z"
+        }
+      ],
+      "version": "2024-08-19T21:38:09.921Z",
+      "voyageExistant": true,
+      "croisiere": false,
+      "navette": {
+        "id": 0,
+        "idNavire": 0,
+        "nomNavire": "string",
+        "ileA": {
+          "id": 5,
+          "nom": "Tahiti",
+          "privee": false,
+          "codeZoneTarifaire": "string",
+          "version": "2024-08-19T21:38:09.921Z",
+          "lieuDebarquements": "Vairao"
+        },
+        "ileB": {
+          "id": 5,
+          "nom": "Tahiti",
+          "privee": false,
+          "codeZoneTarifaire": "string",
+          "version": "2024-08-19T21:38:09.921Z",
+          "lieuDebarquements": "Vairao"
+        }
+      }
+    }
+  ],
+  "number": 0,
+  "numberOfElements": 0,
+  "pageable": {
+    "page": 0,
+    "size": 0,
+    "sort": [
+      "string"
+    ]
+  },
+  "last": true,
+  "empty": true
+}
