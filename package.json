@@ -31,6 +31,7 @@
     "react-to-print": "^3.0.5",
     "remixicon": "^4.6.0",
     "rsuite": "^5.79.1",
+    "sharp": "0.32.6",
     "zustand": "^5.0.3"
   },
   "devDependencies": {
